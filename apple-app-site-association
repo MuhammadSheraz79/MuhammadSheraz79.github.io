@@ -3,5 +3,18 @@
         "apps": [ 
             "TAMQB7CQN7.com.meant2bfree" 
         ]
+    },
+    "applinks": {
+        "apps": [
+            "TAMQB7CQN7.com.meant2bfree" 
+        ],
+        "details": [
+            {
+                "appID": "TAMQB7CQN7.com.meant2bfree",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
